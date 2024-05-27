@@ -2,7 +2,8 @@
 
 This is a full stack application that allows users to perform Create, Read, Update, and Delete (CRUD) operations on transactions.
 
-[![Watch the demo]](https://www.youtube.com/embed/VIDEO_ID](https://github.com/ronksks/budget_management/assets/32454051/1093c343-8aff-4292-8c83-d95250270dbc)
+[![Watch the video](https://img.youtube.com/vi/)]([VIDEO_URL](https://drive.google.com/uc?export=download&id=1nv5YVX5BO5d1Yv1TqJao7G7Fz7jn3DFc
+))
 
 
 
