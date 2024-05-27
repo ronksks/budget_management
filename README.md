@@ -3,7 +3,7 @@
 This is a full stack application that allows users to perform Create, Read, Update, and Delete (CRUD) operations on transactions.
 
 # Demo
-[![Watch the demo](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=rwsZsOYYHEk)
+[Watch the demo](https://www.youtube.com/watch?v=rwsZsOYYHEk)
 
 
 ## Getting Started
