@@ -2,12 +2,11 @@
 
 This is a full stack application that allows users to perform Create, Read, Update, and Delete (CRUD) operations on transactions.
 
-[![Watch the video](https://img.youtube.com/vi/)]([VIDEO_URL](https://drive.google.com/uc?export=download&id=1nv5YVX5BO5d1Yv1TqJao7G7Fz7jn3DFc
-))
-
-
-
-
+# Watch Demo
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1nv5YVX5BO5d1Yv1TqJao7G7Fz7jn3DFc" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Getting Started
